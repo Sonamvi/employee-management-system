@@ -6,6 +6,6 @@ There is also used Abstract Window Toolkit(AWT)
 To store the data for using MYSQL Workbench
 IDEA is used IntelliJ IDEA.
 
-Output Screen :
+Output Screenshots :
 
 
